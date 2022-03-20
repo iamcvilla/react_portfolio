@@ -35,13 +35,7 @@ npm start
 
 #### Screenshot
 
-![Screenshot of the Application](docs/react-portfolio.png?raw=true "Screenshot of the Application")
+https://user-images.githubusercontent.com/91897531/159179671-02e95f18-afb3-4143-8f42-d5c3afda3794.png
 ### Link to the application running on Github Pages: [(React) Personal Portfolio](https://fondofhats.github.io/react-portfolio/)
 
-
-
-## Questions  
-
-Email Michael Giddings with any support questions at [mikegiddings@gmail.com](mailto:mikegiddings@gmail.com)\
-or visit my [GitHub Homepage](https://github.com/fondofhats).
   
