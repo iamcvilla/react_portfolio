@@ -35,7 +35,8 @@ npm start
 
 #### Screenshot
 
-https://user-images.githubusercontent.com/91897531/159179671-02e95f18-afb3-4143-8f42-d5c3afda3794.png
+<img width="1353" alt="Screen Shot 2022-03-20 at 3 36 06 PM" src="https://user-images.githubusercontent.com/91897531/159179671-02e95f18-afb3-4143-8f42-d5c3afda3794.png">
+
 ### Link to the application running on Github Pages: [(React) Personal Portfolio](https://fondofhats.github.io/react-portfolio/)
 
   
